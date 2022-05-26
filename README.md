@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushkr15
 - 👀 I’m interested in creating new things
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development & DSA
 
 
 <!---
