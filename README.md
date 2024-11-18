@@ -17,7 +17,22 @@
 </div>
 
 ## About Me
-Hey there! I'm Ayush Kumar Sinha, a third-year Computer Science student, researcher, and enthusiastic contributor to open source projects. I'm passionate about exploring the intersections of web development, cloud computing, and data analysis.
+Welcome to my GitHub! 👋 I'm Ayush Kumar Sinha, a Computer Science undergrad and tech enthusiast passionate about building scalable software solutions and diving deep into data-driven decision-making.
+
+🚀 What You'll Find Here:
+
+- Rescue Buddy: Driver drowsiness detection using AI and machine learning.
+- Student Information System: Efficient database management for educational institutions.
+- Reddit Drug Analysis: In-depth trend analysis and visualization of drug-related social media data.
+- Russ API: A comprehensive API providing real-time updates with seamless integration.
+
+🌱 Currently Exploring:
+Cloud computing (AWS) and advanced data visualization tools.
+
+💡 Interests:
+Software Development | Data Analysis | AI and ML | Cloud-Native Solutions
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss tech innovations!
 
 ## Current Activities
 - Actively contributing to open source projects for Hacktoberfest'22.
